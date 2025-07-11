@@ -74,3 +74,46 @@ color: #4E47FF;
   padding:141px 116px 159px 116px ;
   background-color: #F5F8FF;
 }
+
+
+/*COUNTER COLUMN*/
+
+.heading-01{
+  font-size: 38PX;
+  font-weight: 800PX;
+  text-align: center;
+  
+}
+.about-items{
+  display:flex;
+  justify-content: space-around;
+
+}
+
+.item-description{
+  font-size: 20px;
+  font-weight: 400;
+  color: #000000;
+
+}
+
+.item-title{
+  font-size: 80px;
+  font-weight: bold;
+  color: #4E47FF;
+  margin: 0px;
+  padding: 0px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.counter-01{
+  background-color: #E5E7FF;
+  padding: 59px 142px 59px 142px;
+
+  border-radius: 24px;
+}
+
+.section-bg{
+  background-color: #F5F8FF;
+  padding: 59px 142px 59px 142px;
+}
