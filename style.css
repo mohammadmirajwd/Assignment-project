@@ -143,3 +143,63 @@ margin-bottom: 137PX;
   margin: 20px;
   border-radius: 20px;
 }
+
+/*READY TO FOCUS*/
+.skilll-description{
+  text-align: center;
+ 
+}
+.bg-img{
+  margin-left: 200px;
+  border-radius: 60px;
+ padding-top: 20px;
+ padding-bottom: 71px;
+}
+
+.bg-background{
+  background-color: white;
+  padding-top: 50px;
+
+}
+
+.sign-btn{
+  margin-left: 550px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 35px;
+  border-radius: 10px;
+  background-color: #4E47FF;
+  color: white;
+  border-style: none;  
+}
+.sign-btn:hover{
+ background-color: #F2C60E;
+}
+
+
+/*footer*/
+
+.form-title{
+  font-size: 92px;
+  font-weight: bold;
+}
+footer{
+  display: flex;
+  padding: 93px 150px;
+  gap: 115px;
+  align-items: center;
+}
+.footer-column{
+  width: 50%;
+}
+
+footer input[type="text"], footer input[type="email"], footer textarea{
+  height: 64px;
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  padding: 10px 20px; 
+  margin-bottom: 24px;
+  border: none;
+}
