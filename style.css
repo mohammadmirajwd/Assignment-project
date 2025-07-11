@@ -117,3 +117,29 @@ color: #4E47FF;
   background-color: #F5F8FF;
   padding: 59px 142px 59px 142px;
 }
+
+
+/*Testimonial*/
+
+.section-title{
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+}
+.skills-container {
+display: flex;
+
+} 
+
+.skills{
+margin-top: 137PX;
+margin-bottom: 137PX;
+}
+
+.skill{
+  padding: 24px;
+  background-color: #FAFCFF;
+  margin: 20px;
+  border-radius: 20px;
+}
