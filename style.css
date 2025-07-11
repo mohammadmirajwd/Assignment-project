@@ -30,3 +30,47 @@ color: #4E47FF;
  background-color: #F2C60E;
  animation: pulseButton 0.5s ease-in-out forwards;
 }
+
+/*banner styles*/
+.bg-image{
+  background-image: url(images/Hero-bg.png);
+  padding: 50px 152px 150px 150px;
+
+}
+.banner-title{
+ font-size: 65px;
+ font-weight: bold;
+
+}
+
+.banner-content{
+  text-align: center;
+}
+
+/*See It in Action*/
+
+
+
+.sub-heading{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+}
+
+.description{
+  font-size: 24px;
+  font-weight:500px;
+  color: #252432;
+  padding-right: 350px;
+ 
+}
+
+.simple-img img{
+  border-radius: 48px;
+}
+
+.about-1{
+  display: flex;
+  padding:141px 116px 159px 116px ;
+  background-color: #F5F8FF;
+}
